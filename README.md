@@ -12,3 +12,21 @@
 - ⭐ 如果对你有帮助，请 Star 支持我们
 
 _我们不制造焦虑，也不贩卖知识，只专注把开源这件事做好_
+
+---
+
+# 👋 Welcome to Open³
+
+> We open source three things only: open, open, and open — for real.
+
+**Open³** is an open source group focused on autonomous driving and embodied intelligence. We share useful, reproducible, and complete technical work — no gated content, no missing pieces, no bait-and-switch.
+
+We do open source not for marketing, but to help real developers build faster, with less duplication and fewer dead ends.
+
+- 🚗 Practical projects in perception, control, and planning for autonomous systems  
+- 🛠️ Tools for data processing, visualization, and testing pipelines  
+- 📚 Blog: [opencubed.club](https://opencubed.club)  
+- 💬 Community: [community.opencubed.club](https://community.opencubed.club) (coming soon)  
+- ⭐ Star this profile if Open³ helped you — that’s the best feedback we can get.
+
+_We don’t create noise. We just open what matters._
